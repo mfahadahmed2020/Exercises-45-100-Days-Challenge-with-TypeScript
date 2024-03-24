@@ -1,3 +1,5 @@
 "use strict";
-let personname = "ERIC";
-console.log(`hello ${personname} would you like to learn some Python today?`);
+let personName = `\n\t Fahad Ahmed\t\n`;
+console.log(personName);
+let stripped = personName.trim();
+console.log(stripped);
