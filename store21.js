@@ -1,0 +1,11 @@
+"use strict";
+const book = {
+    name: 'Imran Series',
+    price: 200
+};
+const apple = {
+    name: 'Mazher Kaleem M.A',
+    price: 450
+};
+console.log(`book name: ${book.name}, price: $${book.price}`);
+console.log(`book name: ${apple.name},price: $${apple.price}`);
