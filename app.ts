@@ -1,2 +1,4 @@
-let personname: string= "ERIC";
-console.log(`hello ${personname} would you like to learn some Python today?`);
+let members: string[] =['azam','saqlain','memood','saba','sana'];
+for(let i=0; i<members.length; i++){
+    console.log(members[i]);
+}
