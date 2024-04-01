@@ -237,3 +237,21 @@ Q85 - Finding the Position of a Substring: Write a function that locates the fir
 Q86 - Checking for Text Presence: Create a function that checks if the word "JavaScript" is present in a given string. It should return true if found, otherwise false.
 
 Q87 - Extracting a Substring: Demonstrate how to extract the first 10 characters from a string.
+
+Q88 - Converting Strings to Numbers: Write a function that takes a string representation of a number (e.g., "123") and converts it into an actual number type.
+
+Q89 - Rounding Numbers: Create a function that takes a number with decimals (e.g., 3.14159) and rounds it to two decimal places.
+
+Q90 - Generating Random Numbers: Write a function that generates a random number between 1 and 10, inclusive.
+
+Q91 - Create an array of your three favorite fruits and add a new fruit to the end of the array.
+
+Q92 - Write a function to remove the last element from an array and return the removed element.
+
+Q93 - Find the index of "Banana" in an array of fruits and replace it with "Mango".
+
+Q94 - Use the .map() method to create a new array that contains the length of each word from an array of words.
+
+Q95 - Write a function that uses the .filter() method to return an array of numbers greater than 10.
+
+Q96 - Demonstrate how to use the .reduce() method to calculate the sum of all numbers in an array.
