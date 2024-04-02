@@ -113,6 +113,7 @@ Q30 - Hello Admin: Make a array of five or more usernames, including the name 'a
 Q31 - No Users: Add an if test to Exercise 28 to make sure the list of users is not empty.
     If the list is empty, print the message We need to find some users!
     Remove all of the usernames from your array, and make sure the correct message is printed.
+
 Q32 - Checking Usernames: Do the following to create a program that simulates how websites ensure that everyone has a unique username.
     Make a list of five or more usernames called current_users.
     Make another list of five usernames called new_users. Make sure one or two of the new usernames are also in the current_users list.
