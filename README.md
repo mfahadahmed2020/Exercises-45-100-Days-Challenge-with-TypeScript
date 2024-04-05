@@ -268,3 +268,10 @@ Q 100 - Use the JavaScript Math object to find the square root of 144.
 Q 101 - Generate a random integer between 1 and 10.
 
 Q 102 - Calculate and log the absolute difference between the number -5 and 5.
+
+Q 103 - Write a function that returns a random boolean value, true or false.
+
+Q 104 - Create a function that generates a random hexadecimal color code.
+
+Q 105 - Simulate a dice roll using JavaScript and return a random integer between 1 and 6.
+
