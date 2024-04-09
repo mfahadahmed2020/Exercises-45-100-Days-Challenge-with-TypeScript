@@ -275,3 +275,32 @@ Q 104 - Create a function that generates a random hexadecimal color code.
 
 Q 105 - Simulate a dice roll using JavaScript and return a random integer between 1 and 6.
 
+Q 106 - Determine if a given year is a leap year using comparison operators.
+
+Q 107 - Write a condition using logical operators that checks if a number is divisible by both 2 and 3.
+
+Q 108 - Compare two strings to check if they are identical, ignoring case sensitivity.
+
+Q 109 - Write an if statement that logs "Good Morning" if the current time is before 12 PM.
+
+Q 110 - Create a function that assigns a grade (A, B, C, D, F) based on a student's score.
+
+Q 111 - Use an if-else-if chain to categorize a person's age group (child, teenager, adult).
+
+Q 112 - Create a Map that stores the names of countries as keys and their capitals as values. Add three countries to the Map.
+
+Q 113 - Write a function that checks if a Map contains a key for "Canada" and logs the capital if it exists.
+
+Q 114 - Iterate over a Map of student IDs and names, and log each pair to the console.
+
+Q 115 - Use a switch statement to log the days of the week based on a number (1-7).
+
+Q 116 - Create a switch case that matches several cases to the same code block, representing seasons.
+
+Q 117 - Implement a switch statement that evaluates an expression and uses the default case if none of the cases match.
+
+Q 118 - Write a loop that logs numbers from 1 to 10 to the console.
+
+Q 119 - Create a while loop that logs "Hello, World!" 5 times.
+
+Q 120 - Use a for...of loop to iterate through an array of your favorite movies and log each one.
