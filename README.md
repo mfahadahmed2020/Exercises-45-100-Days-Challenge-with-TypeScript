@@ -304,3 +304,15 @@ Q 118 - Write a loop that logs numbers from 1 to 10 to the console.
 Q 119 - Create a while loop that logs "Hello, World!" 5 times.
 
 Q 120 - Use a for...of loop to iterate through an array of your favorite movies and log each one.
+
+Q 121 - Implement a for loop that counts from 1 to 10 but skips number 5 using the continue statement.
+
+Q 122 - Use a while loop to count down from 10 to 1 and breaks the loop when it reaches 5.
+
+Q 123 - Create a loop that iterates through a string and stops when it finds the first vowel.
+
+Q 124 - Create a function inside an object that returns the object's own name property using the this keyword.
+
+Q 125 - Modify a method in an object to use the this keyword to access another property in the same object.
+
+Q 126 - Explain how the this keyword changes its value when used inside a nested function within a method.
