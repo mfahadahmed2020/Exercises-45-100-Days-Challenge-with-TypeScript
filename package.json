@@ -1,15 +1,11 @@
 {
-  "name": "name-cases",
+  "name": "task_117_evaluates-grade-corresponding-remark",
   "version": "1.0.0",
-  "description": "",
+  "description": "Task_117",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^20.11.19"
-  }
+  "author": "Fahad",
+  "license": "ISC"
 }
