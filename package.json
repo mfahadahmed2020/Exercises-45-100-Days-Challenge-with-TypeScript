@@ -1,15 +1,11 @@
 {
-  "name": "name-cases",
+  "name": "task_112_capital-names-of-countries",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^20.11.19"
-  }
+  "license": "ISC"
 }
