@@ -323,3 +323,8 @@ Q 128 - Create an arrow function that takes multiple parameters and returns the 
 
 Q 129 - Explain how this behaves differently in arrow functions compared to traditional functions.
 
+Q 130 - Explain how to export a function from one JavaScript file and import it into another file.
+
+Q 131 - Create two modules; one that exports a class, and another that imports the class and creates an instance.
+
+Q 132 - Discuss the difference between default and named exports in JavaScript modules.
