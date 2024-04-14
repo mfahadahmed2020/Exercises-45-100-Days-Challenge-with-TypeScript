@@ -1,3 +1,3 @@
 export default class Calculator {
-    // Class definition
-  }
+  // Class definition
+}
