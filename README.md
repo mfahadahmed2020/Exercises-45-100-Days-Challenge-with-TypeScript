@@ -328,3 +328,9 @@ Q 130 - Explain how to export a function from one JavaScript file and import it 
 Q 131 - Create two modules; one that exports a class, and another that imports the class and creates an instance.
 
 Q 132 - Discuss the difference between default and named exports in JavaScript modules.
+
+Q 133 - Write a JavaScript object and convert it into a JSON string.
+
+Q 134 - Take a JSON string and parse it into a JavaScript object.
+
+Q 135 - Explain how you can format a JSON string with proper indentation for readability.
