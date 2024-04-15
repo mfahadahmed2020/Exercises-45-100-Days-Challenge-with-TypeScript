@@ -334,3 +334,9 @@ Q 133 - Write a JavaScript object and convert it into a JSON string.
 Q 134 - Take a JSON string and parse it into a JavaScript object.
 
 Q 135 - Explain how you can format a JSON string with proper indentation for readability.
+
+Q 136 - Use console.log() to debug and track the value of a variable inside a loop.
+
+Q 137 - Implement a try-catch block to handle potential errors in a block of code.
+
+Q 138 - Describe how to use breakpoints in browser developer tools to debug JavaScript code.
