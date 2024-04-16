@@ -340,3 +340,9 @@ Q 136 - Use console.log() to debug and track the value of a variable inside a lo
 Q 137 - Implement a try-catch block to handle potential errors in a block of code.
 
 Q 138 - Describe how to use breakpoints in browser developer tools to debug JavaScript code.
+
+Q 139 - List three reserved words in JavaScript and create a valid use case for each.
+
+Q 140 - Explain the error that occurs when trying to use a reserved word as a variable name.
+
+Q 141 - Discuss the significance of the await reserved word in asynchronous JavaScript.
