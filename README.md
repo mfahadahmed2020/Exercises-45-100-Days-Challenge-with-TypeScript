@@ -346,3 +346,9 @@ Q 139 - List three reserved words in JavaScript and create a valid use case for 
 Q 140 - Explain the error that occurs when trying to use a reserved word as a variable name.
 
 Q 141 - Discuss the significance of the await reserved word in asynchronous JavaScript.
+
+Q 142 - Create a Promise that resolves with "Hello, World!" after 2 seconds.
+
+Q 143 - Show how to use the .then() and .catch() methods to handle Promise resolution and rejection.
+
+Q 144 - Explain the use of the Promise.all() method with an example.
