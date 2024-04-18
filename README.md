@@ -352,3 +352,9 @@ Q 142 - Create a Promise that resolves with "Hello, World!" after 2 seconds.
 Q 143 - Show how to use the .then() and .catch() methods to handle Promise resolution and rejection.
 
 Q 144 - Explain the use of the Promise.all() method with an example.
+
+Q 145 - Create a function that accepts a callback and invokes it with some arguments.
+
+Q 146 - Show an example of a callback function used to filter an array of numbers.
+
+Q 147 - Explain how to handle errors in a callback pattern.
