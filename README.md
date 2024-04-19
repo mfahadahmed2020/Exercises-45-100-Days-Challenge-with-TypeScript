@@ -358,3 +358,9 @@ Q 145 - Create a function that accepts a callback and invokes it with some argum
 Q 146 - Show an example of a callback function used to filter an array of numbers.
 
 Q 147 - Explain how to handle errors in a callback pattern.
+
+Q 148 - Demonstrate the use of the setTimeout() function to execute code after a delay.
+
+Q 149 - Explain the concept of the event loop in JavaScript with an example.
+
+Q 150 - Describe how asynchronous callbacks differ from synchronous code execution.
