@@ -368,6 +368,25 @@ Q 149 - Explain the concept of the event loop in JavaScript with an example.
 
 Q 150 - Describe how asynchronous callbacks differ from synchronous code execution.
 
+Q 151 - Read the following article: Top 10 Programming Tips For Beginners
+Task 151 
+        https://www.geeksforgeeks.org/programming-tips-for-beginners/
+
+        We've successfully completed 50 days of the 100-day coding challenge, meaning we are 50% done. For the remaining days, I propose a new approach to deepen our                  understanding of programming and web fundamentals.
+
+Q 152 - Read the following article: An Introduction to JavaScript
+Task 152
+        https://javascript.info/intro
+
+        Let’s see what’s so special about JavaScript, what we can achieve with it, and what other technologies play well with it. This article will give you a brief overview          of JavaScript and its capabilities. It’s a great starting point for beginners and a good refresher for experienced developers.
+
+Q 153 - Watch the following video to learn about Chrome DevTools: Fun & powerful: Intro to Chrome DevTools
+Task 153
+        https://www.youtube.com/watch?v=t1c5tNPpXjs&t=23s
+
+        Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. DevTools can help you edit pages on-the-fly and diagnose problems               quickly, which ultimately helps you build better websites, faster, watch the video to learn more about Chrome DevTools.
+        
+
 🎯 Challenge Objective
 
 The goal is simple: dedicate a portion of your day to learning and coding for the next 100 days. By the end of this journey, you will have a solid understanding of programming languages like javascript, and typescript, making you a proficient developer. 🌈
