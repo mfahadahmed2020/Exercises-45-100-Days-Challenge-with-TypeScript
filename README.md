@@ -391,7 +391,32 @@ Task 153
         https://www.youtube.com/watch?v=t1c5tNPpXjs&t=23s
 
         Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. DevTools can help you edit pages on-the-fly and diagnose problems               quickly, which ultimately helps you build better websites, faster, watch the video to learn more about Chrome DevTools.
-        
+
+Q 154 - Read the following Articles and Code along with it:
+
+Day - 54 Task:
+
+Hello World
+
+https://javascript.info/hello-world
+
+Variables
+
+https://javascript.info/variables
+
+Q 155 - Read the following Articles and Code along with it:
+
+Day-55 Task:
+
+Data Types in JavaScript
+
+https://javascript.info/alert-prompt-confirm
+
+Data Types in JavaScript
+
+Interaction: alert, prompt, confirm in JavaScript
+
+https://javascript.info/alert-prompt-confirm
 
 🎯 Challenge Objective
 
