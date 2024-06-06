@@ -394,7 +394,7 @@ Task 153
 
 Q 154 - Read the following Articles and Code along with it:
 
-Day - 54 Task:
+Day - 54 Task: 154 To 155
 
 Hello World
 
@@ -406,7 +406,7 @@ https://javascript.info/variables
 
 Q 155 - Read the following Articles and Code along with it:
 
-Day-55 Task:
+Day - 55 Task: 156 To 157
 
 Data Types in JavaScript
 
@@ -417,6 +417,67 @@ Data Types in JavaScript
 Interaction: alert, prompt, confirm in JavaScript
 
 https://javascript.info/alert-prompt-confirm
+
+Q 156 - Read the following Articles and Code along with it:
+
+Day - 56 Task: 158 To 159
+
+Type Conversions in JavaScript
+
+https://javascript.info/type-conversions
+
+Operators in JavaScript
+
+https://javascript.info/operators
+
+Q 157 - Read the following Articles and Code along with it:
+
+Day - 57 Task: 160 To 161
+
+Comparisons in JavaScript
+
+https://javascript.info/comparison
+
+Conditional Operators: if, '?'(Ternary Operator) in JavaScript
+
+https://javascript.info/ifelse
+
+Q 158 - Read the following Articles and Code along with it:
+
+Day - 58 Task: 162 To 163
+
+Logical Operators in JavaScript
+
+https://javascript.info/logical-operators
+
+Nullish Coalescing Operator '??' in JavaScript
+
+https://javascript.info/nullish-coalescing-operator
+
+Q 159 - Read the following Articles and Code along with it:
+
+Day - 59 Task: 164 To 165
+
+Loops: while and for in JavaScript
+
+https://javascript.info/while-for
+
+The "switch" statement in JavaScript
+
+https://javascript.info/switch
+
+Q 160 - Read the following Articles and Code along with it:
+
+Day - 60 Task: 166 To 167
+
+Functions in JavaScript
+
+https://javascript.info/function-basics
+
+Function Expressions in JavaScript
+
+https://javascript.info/function-expressions
+
 
 🎯 Challenge Objective
 
