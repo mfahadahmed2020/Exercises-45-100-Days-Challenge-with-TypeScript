@@ -478,6 +478,32 @@ Function Expressions in JavaScript
 
 https://javascript.info/function-expressions
 
+Q 161 - Read the following Articles and Code along with it:
+
+Day - 61 Task : 168 To 169
+
+Arrow functions Basics in JavaScript
+
+https://javascript.info/arrow-functions-basics
+
+JavaScript specials in JavaScript
+
+https://javascript.info/javascript-specials
+
+Q 162 - First understand what typescript is, and why we need it, then setup typescript using the following guides:
+
+Day - 62 Task : 170 To 171
+
+TypeScript Introduction in Simple Words
+
+https://github.com/AsharibAli/100-days-of-code/blob/main/day-62/TS-Intro%20&%20Setup/typescript-intro.md
+
+Setup TypeScript | Step-by-Step
+
+https://github.com/AsharibAli/100-days-of-code/blob/main/day-62/TS-Intro%20&%20Setup/typescript-setup.md
+
+
+
 
 🎯 Challenge Objective
 
