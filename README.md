@@ -496,11 +496,172 @@ Day - 62 Task : 170 To 171
 
 TypeScript Introduction in Simple Words
 
-https://github.com/AsharibAli/100-days-of-code/blob/main/day-62/TS-Intro%20&%20Setup/typescript-intro.md
+"TypeScript is JavaScript with syntax for types. It is all about type safety. Sometimes JavaScript exhibits unexpected behavior. For example, if you write:
+
+2 + "2"
+
+It will return '22'. However, with TypeScript, all of these problems just disappear.
+
+TypeScript is a programming language built on top of JavaScript. It enhances JavaScript by offering several features that aid in creating more robust and maintainable applications while reducing development time. The most significant feature TypeScript provides is static typing.
+
+Static typing, a core concept in TypeScript, is what sets it apart. In programming, we have two main categories: statically typed languages and dynamically typed languages.
+
+    Statically Typed Languages (e.g., C++, C#, Java) require declaring a variable's type at compile time or during coding. For example, a variable can be declared as an integer, and it can only store integer values. This fixed type prevents the variable from holding a string or any other data type, making the code safer and less prone to errors.
+    Dynamically Typed Languages (e.g., JavaScript, Python, Ruby) allow variables to have dynamic types, determined at runtime and changeable during execution. While this dynamic nature provides flexibility, it can lead to errors. For instance, changing a variable from a number to a string later in the code may lead to unexpected behavior or crashes.
+
+This is where TypeScript comes in. TypeScript is JavaScript with type checking. It requires developers to explicitly specify variable types upon declaration, similar to statically typed languages. The TypeScript compiler checks your code for type-related errors at compile time, catching many issues before runtime. This helps you identify and resolve errors early in the development process.
+
+You can use TypeScript in a variety of settings, from frontend web development to backend server-side scripting. It seamlessly integrates with JavaScript, allowing you to apply TypeScript's advantages wherever JavaScript is used. Whether you choose TypeScript depends on your project's needs and your development preferences. If you're eager to explore TypeScript further, the next step is setting up your development environment."
+
+But this is not the only reason to learn TypeScript.
+
+Why Should You Learn TypeScript?
+
+    High Industry Demand: Many companies seek proficiency in TypeScript, making it a valuable skill in the job market.
+    As you know, JavaScript can be as complex as quantum mechanics, but TypeScript simplifies it and makes it more reliable
+    Efficiency: TypeScript reduces the need for extensive unit testing, saving time and effort.
+    Error Prevention and Quick Feedback: TypeScript detects errors before runtime, providing instant feedback for faster and more reliable development.
+    Seamless Integration: It seamlessly integrates with JavaScript, making adoption painless.
+    Framework Empowerment: TypeScript enhances popular frameworks like React, Vue, and Angular with advanced features such as interfaces, generics, and decorators.
+
+How Typescript Works
+
+    TypeScript Compiler Compiles TS Code into JavaScript Code (This Is Called Transpilation).
+    TypeScript provides static code analysis, identifying potential errors before runtime. It analyzes your code to offer early error detection, enhancing your development process. It's all about code analysis.
+
+I'll explain this further with an example. While TypeScript can hint at issues, it's still possible to encounter errors or squiggly lines in your code, but you can still export your code to JavaScript.
+Prerequisite
+Prerequisite to follow along with this: You only need to have a basic knowledge of JavaScript and a cup of coffee.
 
 Setup TypeScript | Step-by-Step
 
-https://github.com/AsharibAli/100-days-of-code/blob/main/day-62/TS-Intro%20&%20Setup/typescript-setup.md
+Install Git:
+
+    Download Git from the official website: Git Downloads.
+    
+    https://git-scm.com/downloads
+    
+    Follow the installation instructions for your specific operating system.
+
+Install Visual Studio Code (VSCode):
+
+    Download Visual Studio Code from the official website: VSCode Downloads.
+
+https://code.visualstudio.com/download
+    
+    Follow the installation instructions for your specific operating system.
+
+Install Node.js:
+
+    Download Node.js from the official website: Node.js Downloads.
+
+https://nodejs.org/
+    
+    Choose the LTS (Long-Term Support) version for stability or the Current version for the latest features.
+    Follow the installation instructions for your specific operating system.
+
+Verify Node.js Installation (Optional):
+
+    Open your terminal or Git Bash.
+
+    Run the following command to check if Node.js is installed:
+
+    node -v
+
+    It should display the Node.js version if it's installed correctly.
+
+Install TypeScript:
+
+    Once Node.js is installed, you can use the Node Package Manager (npm) to install TypeScript globally.
+
+    Open your terminal or Git Bash.
+
+    Run the following command to install TypeScript:
+
+    npm install -g typescript
+
+After installation, verify TypeScript by running:
+
+tsc -v
+
+        It should display the TypeScript version if it's installed correctly.
+
+Create Your First Application
+
+    Create a new folder on your desktop, for example, named "typescript."
+    Inside the "typescript" folder, create a new file called index.ts and open it in Visual Studio Code (VS Code).
+    Write the following code in index.ts:
+
+console.log(Math.floor(11.3));
+
+    Notice that VS Code highlights Math.floor() as if there's a problem even before compiling or running the code.
+    If you hover over it, you will see the message "(expected 1 argument but got 0)."
+    To fix the problem, add a number (e.g., 11.3) as an argument inside Math.floor().
+
+Running the Code
+
+Open Git Bash:
+
+    Open the Git Bash terminal and navigate to the directory where you created your TypeScript file on the desktop.
+
+cd /desktop/typescript/
+
+Compile TypeScript to JavaScript:
+
+    Use the tsc command to compile it into JavaScript. For example:
+
+tsc
+
+This will generate a JavaScript file with the same name as your TypeScript file (index.js).
+
+Run the JavaScript File:
+
+    Once the TypeScript file is compiled, you can run the resulting JavaScript file using Node.js. For example:
+
+node filename.js
+
+In this case
+
+node filename.js
+
+This will execute your JavaScript code, and you should see the output in the terminal.
+Configuration
+
+Let's begin by structuring the project:
+
+    Create a src folder.
+    Move the index.ts file into the newly created src folder.
+
+Generate a tsconfig.json File: Create a tsconfig.json file with default settings using this command:
+
+tsc --init
+
+This command will generate a tsconfig.json file in your project directory, including default compiler options.
+
+Customize tsconfig.json (Optional): Open the tsconfig.json file in a text editor to tailor compiler options to your project's needs. Pay special attention to these key configurations:
+
+    "rootDir": "./src"
+        rootDir: Defines the root directory for TypeScript source files.
+    "outDir": "./dist"
+        outDir: Specifies the output directory for compiled JavaScript files. (that folder and file are going to be generated)
+
+Save tsconfig.json: Save your changes to the tsconfig.json file if you made any customizations.
+
+Compile Your TypeScript Code: After creating and configuring tsconfig.json, compile your TypeScript code by running:
+
+tsc
+
+TypeScript will utilize the settings defined in your tsconfig.json to compile your project.
+
+Run the Compiled JavaScript Code: Once your TypeScript code is compiled to JavaScript, you can run the compiled JavaScript file using Node.js. Use the following command
+
+node dist/filename.js
+
+In this case
+
+node dist/index.js
+
+This will execute your JavaScript code, and you should see the output in the terminal.
 
 
 
